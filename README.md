@@ -1,6 +1,7 @@
 ## Atividade-android
 # Atividade avaliativa com objetivo de copiar um layout famoso com XML
 Prints original
+<ln>
 <img width="1080" height="2400" alt="1000027618" src="https://github.com/user-attachments/assets/bd2d759d-1062-4a98-b218-0806c804f810" />
 <img width="1080" height="2400" alt="1000027619" src="https://github.com/user-attachments/assets/49747355-8086-4e3e-8857-12c1c60169e0" />
 Prints copia
